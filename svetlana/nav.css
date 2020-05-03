@@ -1,0 +1,13 @@
+nav {
+    width: 960px;
+    margin: 0 auto;
+}
+nav:before {
+    content:'';
+    display:block;
+    height:60px;
+    width:100%;
+    background: #20ff4d;
+    position:absolute;
+    left:0;
+    z-index:-1;}
